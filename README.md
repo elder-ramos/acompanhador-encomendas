@@ -39,9 +39,13 @@ Um aplicativo que permite criar, gerenciar e apagar clientes. Além de enviar me
 
 
   apiData recebe valores de uma API não-oficial dos Correios, onde é consultado sua data e hora da última atualização.
+  
   readData recebe valores da base de dados (arquivo .json), onde também é consultado a data e hora da última atualização.
+  
   compareData é responsável por comparar e dar o resultado: iguais ou não. Caso eles sejam iguais, nada será feito. Mas, caso eles sejam diferentes, whatsapp.js e update.py são acionados.
+  
   whatsapp.js é responsável por enviar as mensagens para o WhatsApp dos clientes através da biblioteca wppjs whatsapp-web.js.
+  
   update.py é responsável por atualizar a base de dados com os novos dados adquiridos através da apiData.
 
 #### Adição de dados (addData.py):
