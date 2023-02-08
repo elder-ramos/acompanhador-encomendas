@@ -1,6 +1,9 @@
 # Acompanhador de encomendas
 
 Um aplicativo que permite criar, gerenciar e apagar clientes. Além de enviar mensagens com atualizações da localização da encomenda.
+
+#### OBS: O projeto NÃO irá funcionar. Foram tiradas partes do código para manter chaves privadas e dados (número de telefone e códigos de rastreio) em particular.
+
 ## Stack utilizada
 
 **Back-end:** Node, Python
