@@ -23,7 +23,7 @@ Um aplicativo que permite criar, gerenciar e apagar clientes. Além de enviar me
 
 #### Código válido
 
-![Screenshot_3](https://user-images.githubusercontent.com/99875876/217393322-09f49932-b519-440c-ba00-c561c715ee6b.png)
+![Screenshot_3](![Screenshot_3](https://user-images.githubusercontent.com/99875876/217655550-4f8db626-46af-468a-bae6-5fdf4eeef49c.png)
 
 ## Documentação
 
